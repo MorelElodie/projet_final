@@ -10,4 +10,4 @@ source("src/extract_clim.R")
 
 source("src/extract_sat.R")
 
-source("src/plots_analyses")
+source("src/plots_analyses.R")
